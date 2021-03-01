@@ -5,6 +5,8 @@ function getNumbers(){
     return result;
 }
 
+
+// Esta funcion hace todo el proceso de la calculadora
 function main() {
     var input = document.getElementById("input").value;
     var output = document.getElementById("output");
