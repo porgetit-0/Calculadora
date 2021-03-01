@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+form#input-line {
+    width: 100%;
+    border: solid black 1px; 
+}
+
+form#input-line input.input {
+    
+}
